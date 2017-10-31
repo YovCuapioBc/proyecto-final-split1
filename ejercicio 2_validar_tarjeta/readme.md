@@ -12,4 +12,4 @@
 5.Comprobar si la tarjeta des válida
 
 ## Diagrama de flujo
-![Diagrama](https://www.lucidchart.com/publicSegments/view/a106d0a6-7001-48c0-a0c1-e6ede4fde672/image.jpeg)
+![Diagrama](https://www.lucidchart.com/publicSegments/view/e12176ee-fbfc-4a24-84a7-d7eea79a8529/image.jpeg)
